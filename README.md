@@ -4,7 +4,7 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://github.com/KOT-BOTS-REPO/PyrogramGenStr">
+  <a href="https://github.com/jeevasangu/PyrogramGenStr">
     <img src="https://github.com/KOT-BOTS-REPO/PyrogramGenStr/blob/main/resources/KOTBOTSgenStrSession-badge.svg" width="250">
   </a><br>
   <a href="https://t.me/KOT_BOTS">
@@ -14,10 +14,10 @@
     &nbsp;<img src="https://img.shields.io/badge/KOT%20%F0%9D%95%8F%20Bots-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
-  <a href="https://github.com/KOT-BOTS-REPO/KOT-FILE-SHARING-BOT/stargazers">
+  <a href="https://github.com/jeevasangu/KOT-FILE-SHARING-BOT/stargazers">
     <img src="https://img.shields.io/github/stars/KOT-BOTS-REPO/KOT-FILE-SHARING-BOT?style=social">
   </a>
-  <a href="https://github.com/KOT-BOTS-REPO/KOT-FILE-SHARING-BOT/fork">
+  <a href="https://github.com/jeevasangu/KOT-FILE-SHARING-BOT/fork">
     <img src="https://img.shields.io/github/forks/KOT-BOTS-REPO/KOT-FILE-SHARING-BOT?label=Fork&style=social">
   </a>  
 </p>
@@ -44,7 +44,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KOT-BOTS-REPO/KOT-FILE-SHARING-BOT)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jeevasangu/KOT-FILE-SHARING-BOT)</br>
 <a href="https://t.me/KOT_SOURCE_CODE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
